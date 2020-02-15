@@ -1,0 +1,18 @@
+ul {
+   margin: 6px;
+   margin-right: 785px;
+   padding: 0;
+   list-style-type: none;
+}
+
+li {
+   padding: 10px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.odd {
+   background: #f1f1f1;
+}
+
+.even {
+   background: #e1e1e1;
+} 
