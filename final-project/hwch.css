@@ -1,0 +1,54 @@
+@import url(//db.onlinewebfonts.com/c/4c29fcc86f895611c127f96e745d6dd4?family=Helvetica+Neue+LT+Std);
+
+body {
+    font-family: 'Playfair Display', serif;
+    background-color:ivory;
+}
+
+    .container {
+        width: 1250px;
+        margin: 0 auto;
+    }
+    h1 {
+        background:#548ea2 ;
+        color: #eff0f1;
+        margin-left: 10px;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #548ea2;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+    
+      li a:hover {
+        background-color: #111;
+      } 
+
+        .flex-container {
+            display: flex;
+            height: 200px;
+            align-items: center;
+          }
+.row {
+    display: flex;
+}
+
+.col {
+    flex: 4;
+}
